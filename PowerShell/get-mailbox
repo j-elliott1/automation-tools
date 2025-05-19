@@ -1,0 +1,2 @@
+Get-Mailbox -ResultSize Unlimited | Get-MailboxPermisson -User xxxxxxx | Where-Object { $_.AccessRights -like "*FullAccess*" } | Select-Object Identitiy    
+(x equals username)
