@@ -2,11 +2,11 @@
 
 Current Windows Event ID	Legacy Windows Event ID	Potential Criticality	Event Summary
 - 4618	N/A	High	A monitored security event pattern has occurred.
- -4649	N/A	High	A replay attack was detected. May be a harmless false positive due to misconfiguration error.
+- 4649	N/A	High	A replay attack was detected. May be a harmless false positive due to misconfiguration error.
 - 4719	612	High	System audit policy was changed.
-4765	N/A	High	SID History was added to an account.
-4766	N/A	High	An attempt to add SID History to an account failed.
-4794	N/A	High	An attempt was made to set the Directory Services Restore Mode.
+- 4765	N/A	High	SID History was added to an account.
+- 4766	N/A	High	An attempt to add SID History to an account failed.
+- 4794	N/A	High	An attempt was made to set the Directory Services Restore Mode.
 4897	801	High	Role separation enabled:
 4964	N/A	High	Special groups have been assigned to a new logon.
 5124	N/A	High	A security setting was updated on the OCSP Responder Service
