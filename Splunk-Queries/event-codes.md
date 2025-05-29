@@ -1,4 +1,4 @@
-Straight from Microsoft Learn:
+# From Microsoft Learn:
 
 Current Windows Event ID	Legacy Windows Event ID	Potential Criticality	Event Summary
 4618	N/A	High	A monitored security event pattern has occurred.
